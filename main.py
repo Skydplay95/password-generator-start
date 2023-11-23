@@ -92,5 +92,4 @@ for char in password_shuffle:
     password += char
 
 #print password
-print(password_shuffle)
 print(password)

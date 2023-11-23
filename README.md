@@ -1,7 +1,7 @@
 ## Password Generator
 
 Day 6 Python Project
-I made the one in main.py
+I made the one in main.py, if you have any comments, advice, feel free to tell me, it's will be a great help, thanks you 
 
 # Instructions
 
